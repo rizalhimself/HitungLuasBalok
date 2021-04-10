@@ -1,0 +1,28 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Release\Menghitung Luas Balok.exe.manifest
+bin\Release\Menghitung Luas Balok.application
+bin\Release\Menghitung Luas Balok.exe
+bin\Release\Menghitung Luas Balok.pdb
+bin\Release\Menghitung Luas Balok.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Form1.resources
+obj\Release\WindowsApplication1.Resources.resources
+obj\Release\Menghitung Luas Balok.vbproj.GenerateResource.Cache
+obj\Release\Menghitung Luas Balok.exe.manifest
+obj\Release\Menghitung Luas Balok.application
+obj\Release\Menghitung Luas Balok.exe
+obj\Release\Menghitung Luas Balok.xml
+obj\Release\Menghitung Luas Balok.pdb
+bin\Debug\Menghitung Luas Balok.exe.manifest
+bin\Debug\Menghitung Luas Balok.application
+bin\Debug\Menghitung Luas Balok.exe
+bin\Debug\Menghitung Luas Balok.pdb
+bin\Debug\Menghitung Luas Balok.xml
+obj\Debug\Menghitung Luas Balok.vbproj.GenerateResource.Cache
+obj\Debug\Menghitung Luas Balok.exe.manifest
+obj\Debug\Menghitung Luas Balok.application
+obj\Debug\Menghitung Luas Balok.exe
+obj\Debug\Menghitung Luas Balok.xml
+obj\Debug\Menghitung Luas Balok.pdb

@@ -1,0 +1,15 @@
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\Menghitung Luas Balok.xml
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\Menghitung Luas Balok.pdb
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\bin\Debug\Menghitung Luas Balok.exe.manifest
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\bin\Debug\Menghitung Luas Balok.application
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\bin\Debug\Menghitung Luas Balok.exe
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\bin\Debug\Menghitung Luas Balok.pdb
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\bin\Debug\Menghitung Luas Balok.xml
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\ResolveAssemblyReference.cache
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\WindowsApplication1.Form1.resources
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\WindowsApplication1.Resources.resources
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\GenerateResource.read.1.tlog
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\GenerateResource.write.1.tlog
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\Menghitung Luas Balok.exe.manifest
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\Menghitung Luas Balok.application
+G:\User Data\Rizal Alfikri\Documents\Visual Studio 2005\Projects\Menghitung Luas Balok\Menghitung Luas Balok\obj\Debug\Menghitung Luas Balok.exe
